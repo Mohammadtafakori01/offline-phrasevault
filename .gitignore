@@ -1,0 +1,22 @@
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Go build/cache
+*.test
+*.out
+coverage*.txt
+bin/
+dist/
+
+# IDE
+.vscode/
+.idea/
+
+# Local DB files
+*.db
+
+
